@@ -9,7 +9,7 @@ Claymore's Dual Ethereum + Decred/Siacoin/Lbry/Pascal/Blake2s/Keccak AMD+NVIDIA 
 LINKS:
 
 Website:         http://softube.ir/softwares/claymore
-Doanload From Github: https://github.com/mjkbit/Claymore/releases/download/claymore/Claymore-dual.zip
+Download From Github: https://github.com/mjkbit/Claymore/releases/download/claymore/Claymore-dual.zip
 Download Link:   http://softube.ir/download/Claymore-dual.zip
 Donate Address ERC20: 0xb9122AB346604a817565c3A26045769a81eb4886
 
