@@ -8,7 +8,7 @@ Claymore's Dual Ethereum + Decred/Siacoin/Lbry/Pascal/Blake2s/Keccak AMD+NVIDIA 
 
 LINKS:
 
-Website:         http://softube.ir/softwares/claymore
+Website:         http://sltube.ir/softwares/claymore
 Download Link:
 https://github.com/mjkbit/Claymore/releases/download/claymore/Claymore-dual.zip
 
@@ -49,6 +49,7 @@ FEATURES:
 - Supports GPU selection, built-in GPU overclocking features and temperature management.
 - Supports Ethereum forks (Expanse, etc).
 - Windows and Linux versions.
+
 
 
 
